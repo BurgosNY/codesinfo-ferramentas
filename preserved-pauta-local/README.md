@@ -1,0 +1,1 @@
+Pauta de perto foi retirada do site do grupo 6 a pedido de Andrea em 13/11/2026. Fonte preservada aqui e no histórico git. Nenhuma chave localStorage foi limpa. Não transferido a outro grupo sem identificação do destino correto.
